@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92a1769d-c047-4d56-8330-b7a65aa6d9c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Main Objects/Pickups/CreditPickup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AdManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UIHelpCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Saving &amp; Loading/SaveState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UIPauseMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayGamesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FuelPickup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FX.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AchievementUnlocker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/GameHUD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/DeathScreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/GooglePlayCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GooglePlayGames/BasicApi/IPlayGamesClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SettingsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ShopController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/CustomizationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WatchAdScreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UIUpgradeUnlockedCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UITutorialCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GooglePlayGames/ISocialPlatform/PlayGamesPlatform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Main Objects/Level/ObstacleDestroyer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Main Objects/Level/ObstaclePrefab.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GooglePlayGames/Editor/GPGSUpgrader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Main Objects/Player/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Main Objects/Player/Shield.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Main Objects/Player/PlayerBody.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerUpgrades.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Customization.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayspaceManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShopController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/CustomizationController.cs" />
+        <option value="$PROJECT_DIR$/Assets/TweenScale.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerUpgrades.cs" />
+        <option value="$PROJECT_DIR$/Assets/FuelPickup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main Objects/Pickups/CreditPickup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AchievementUnlocker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameHUD.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Saving &amp; Loading/SaveState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main Objects/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/GooglePlayCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/DeathScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/WatchAdScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/SettingsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIHelpCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIPauseMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/UITutorialCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIUpgradeUnlockedCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ShopController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/AdManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WgCyr0CsUvVHX2I3JP1EkSmXkI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92a1769d-c047-4d56-8330-b7a65aa6d9c3" name="Default Changelist" comment="" />
+      <created>1579562109578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579562109578</updated>
+      <workItem from="1579562116249" duration="2739000" />
+      <workItem from="1579610323543" duration="894000" />
+      <workItem from="1579617691812" duration="703000" />
+      <workItem from="1579624957164" duration="2417000" />
+      <workItem from="1579636662157" duration="4278000" />
+      <workItem from="1579788365444" duration="2989000" />
+      <workItem from="1579795864308" duration="3710000" />
+      <workItem from="1579894152774" duration="1257000" />
+      <workItem from="1580740078136" duration="1827000" />
+      <workItem from="1590677268388" duration="42898000" />
+      <workItem from="1591026347927" duration="6794000" />
+      <workItem from="1591286796423" duration="15050000" />
+      <workItem from="1591638324357" duration="1458000" />
+      <workItem from="1591804584605" duration="4479000" />
+      <workItem from="1591886388489" duration="6914000" />
+      <workItem from="1592240039104" duration="1364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1124" y="386" key="RiderGenerateDialog" timestamp="1590764525822">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1124" y="386" key="RiderGenerateDialog/0.0.2560.1400/2560.0.1920.1080@0.0.2560.1400" timestamp="1590764525822" />
+    <state x="1045" y="357" key="SettingsEditor" timestamp="1590765218462">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1045" y="357" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1080@0.0.2560.1400" timestamp="1590765218462" />
+    <state x="991" y="370" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591111595308">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="991" y="370" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400/2560.0.1920.1080@0.0.2560.1400" timestamp="1591111595308" />
+    <state x="1073" y="335" key="run.anything.popup" timestamp="1591298120998">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1073" y="335" key="run.anything.popup/0.0.2560.1400/2560.0.1920.1080@0.0.2560.1400" timestamp="1591298120998" />
+  </component>
+</project>
