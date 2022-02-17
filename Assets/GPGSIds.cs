@@ -24,7 +24,24 @@
 
 public static class GPGSIds
 {
-        public const string achievement_welcome = "CgkIz4GOyIwQEAIQAQ"; // <GPGSID>
+        public const string achievement_skins_2 = "CgkIz4GOyIwQEAIQEA"; // <GPGSID>
+        public const string achievement_skins_1 = "CgkIz4GOyIwQEAIQDw"; // <GPGSID>
+        public const string achievement_distance_1 = "CgkIz4GOyIwQEAIQBQ"; // <GPGSID>
+        public const string achievement_credits_4 = "CgkIz4GOyIwQEAIQDQ"; // <GPGSID>
+        public const string achievement_credits_5 = "CgkIz4GOyIwQEAIQDg"; // <GPGSID>
+        public const string achievement_credits_2 = "CgkIz4GOyIwQEAIQCw"; // <GPGSID>
+        public const string achievement_credits_3 = "CgkIz4GOyIwQEAIQDA"; // <GPGSID>
+        public const string achievement_credits_1 = "CgkIz4GOyIwQEAIQCg"; // <GPGSID>
+        public const string achievement_distance_2 = "CgkIz4GOyIwQEAIQBg"; // <GPGSID>
+        public const string achievement_distance_4 = "CgkIz4GOyIwQEAIQCA"; // <GPGSID>
+        public const string achievement_boost = "CgkIz4GOyIwQEAIQBA"; // <GPGSID>
+        public const string achievement_skins_4 = "CgkIz4GOyIwQEAIQEg"; // <GPGSID>
+        public const string achievement_skins_5 = "CgkIz4GOyIwQEAIQEw"; // <GPGSID>
+        public const string achievement_distance_5 = "CgkIz4GOyIwQEAIQCQ"; // <GPGSID>
+        public const string achievement_distance_3 = "CgkIz4GOyIwQEAIQBw"; // <GPGSID>
+        public const string achievement_informed = "CgkIz4GOyIwQEAIQAQ"; // <GPGSID>
+        public const string leaderboard_altitude = "CgkIz4GOyIwQEAIQAg"; // <GPGSID>
+        public const string achievement_skins_3 = "CgkIz4GOyIwQEAIQEQ"; // <GPGSID>
 
 }
 
