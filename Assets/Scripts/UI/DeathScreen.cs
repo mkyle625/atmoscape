@@ -44,7 +44,7 @@ public class DeathScreen : MonoBehaviour
         SoundManager.Instance.PlayClickSound();
         
         // Show an ad first for that sweet money!
-        FindObjectOfType<AdManager>().ShowAd();
+        //FindObjectOfType<AdManager>().ShowAd();
     
         // Save the game LoL
         SaveManager.Instance.Save("Hypercharge");

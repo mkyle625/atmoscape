@@ -101,8 +101,8 @@ public class MainMenu : MonoBehaviour
         //Play click sound
         SoundManager.Instance.PlayClickSound();
         
-        watchAd = true;
-        FindObjectOfType<AdManager>().ShowRewardedAd();
+        //watchAd = true;
+        //FindObjectOfType<AdManager>().ShowRewardedAd();
     }
     
     /** When you click the play button on the main menu **/

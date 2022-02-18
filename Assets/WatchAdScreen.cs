@@ -14,7 +14,7 @@ public class WatchAdScreen : MonoBehaviour
     public GameObject _watchAdButton;
     
     private bool isOpen;
-
+    
     private void OnEnable()
     {
         Start();
@@ -82,9 +82,16 @@ public class WatchAdScreen : MonoBehaviour
         //Play click sound
         SoundManager.Instance.PlayClickSound();
         
-        //Call to unity ads here or something like that
-        gameObject.SetActive(false); 
-        FindObjectOfType<AdManager>().ShowRewardedAd();
-        SaveManager.Instance.state.watchedAd = true;
+        // Check if there is enough credits
+        if (SaveManager.Instance.state.playerCredits > 50)
+        {
+            SaveManager.Instance.state.playerCredits -= 50;
+            
+            //Call to unity ads here or something like that
+            gameObject.SetActive(false); 
+            //FindObjectOfType<AdManager>().ShowRewardedAd();
+        
+            SaveManager.Instance.state.watchedAd = true;
+        }
     }    
 }

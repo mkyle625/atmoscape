@@ -5,9 +5,9 @@ using UnityEngine.Advertisements;
 using UnityEngine.Monetization;
 using UnityEngine.SceneManagement;
 
-public class AdManager : MonoBehaviour, IUnityAdsListener
+public class AdManager : MonoBehaviour//, IUnityAdsListener
 {
-    public MainMenu _mainMenu;
+    /*public MainMenu _mainMenu;
     
     private string gameId = "3435012";
 
@@ -94,6 +94,6 @@ public class AdManager : MonoBehaviour, IUnityAdsListener
     public void OnUnityAdsDidStart(string placementId)
     {
         // Optional actions to take when the end-users triggers an ad.
-    }
+    }*/
 
 }
